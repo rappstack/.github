@@ -58,3 +58,9 @@ No. I originally tried integrating with Vite, but Vite is a bit too complicated 
 ## What about HMR?
 
 I don't really use HMR b/c (ctrl+r/cmd+r) is a pretty quick keystroke. Sometimes I want to keep the old page open b/c I'm in the middle of debugging & HMR has messed with the workflow. I'm not against HMR if there's a good solution to these workflow gotchas, but it has not been a priority yet. HMR support will probably come later. 
+
+## Projects
+
+* https://github.com/btakita/briantakita.me-dev
+* https://github.com/btakita/brookebrodack-dev
+* https://github.com/cogov/cogov-dev

@@ -5,7 +5,7 @@ rappstack (reactive app stack) is a semi-opinionated stack that emphasizes:
 * reactive programming
 * general purpose contexts
 * tiny browser bundles
-* server side performance
+* performance
 
 The tech stack includes:
 

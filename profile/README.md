@@ -11,13 +11,14 @@ The tech stack includes:
 
 * [bunjs](https://bun.sh/)
 * [Elysiajs](https://elysiajs.com/)
+* [DrizzleORM](https://orm.drizzle.team/)
+* [Auth.js](https://authjs.dev/)
+* [tailwindcss](https://tailwindcss.com/)
 * [ctx-core](https://github.com/ctx-core/ctx-core)
 * [rmemo](https://github.com/ctx-core/rmemo)
 * [relement](https://github.com/relementjs/relementjs)
 * [rebuildjs](https://github.com/rebuildjs/rebuildjs)
 * [relysjs](https://github.com/relysjs/relysjs)
-* [tailwindcss](https://tailwindcss.com/)
-* [Prisma?](https://www.prisma.io/)
 
 ## Databases
 
